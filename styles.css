@@ -190,7 +190,7 @@ h3 {
 
 .project {
   display: grid;
-  grid-template-columns: minmax(0, 45%) 1fr;
+  grid-template-columns: minmax(0, 50%) 1fr;
   gap: 32px;
   align-items: start;
   color: inherit;
